@@ -1,5 +1,5 @@
 -AntiHttpSpy
-loadstring(game:HttpGet("https://raw.githubusercontent.com/41qqq4qafdafdafafa/dada/refs/heads/main/fffses"))()
+loadstring(game:HttpGet(""))()
 local loading = false
 repeat task.wait()
 	if not loading then
